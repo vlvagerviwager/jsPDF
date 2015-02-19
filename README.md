@@ -1,5 +1,5 @@
 #jsPDF
-
+Small change
 **Generate PDF files in client-side JavaScript.**
 
 You can [catch me on twitter](http://twitter.com/MrRio): [@MrRio](http://twitter.com/MrRio) or head over to [my company's website](http://snapshotmedia.co.uk) for consultancy. 
